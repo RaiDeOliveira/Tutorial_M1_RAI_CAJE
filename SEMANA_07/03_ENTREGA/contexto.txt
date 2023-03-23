@@ -1,0 +1,3 @@
+Para essa atividade, escolhi desenvolver um jogo dentro do tema "ritual". 
+
+O jogo trata de uma pessoa que, sempre ao dormir, tem um pesadelo. Esse pesadelo, na verdade, é uma entidade com consciência própria que sempre tenta, dentro do pesadelo, matar a alma da pessoa que está sonhando para que ela nunca acorde e o pesadelo possa viver para sempre. A única forma dessa alma acordar e não ser assassinada pelo pesadelo é tirando outra vida (no caso, a vida do pesadelo, que se regenera a cada sonho e é representada por um coração).
